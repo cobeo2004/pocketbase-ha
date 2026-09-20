@@ -6,9 +6,9 @@ require (
 	github.com/charmbracelet/lipgloss v1.1.0
 	github.com/knz/bubbline v0.0.0-20251201090646-433e881e9884
 	github.com/litesql/go-ha v0.13.0
-	github.com/litesql/go-sqlite-ha v0.13.1
+	github.com/litesql/go-sqlite-ha v0.13.2
 	github.com/litesql/go-sqlite3 v1.14.53
-	github.com/litesql/go-sqlite3-ha v0.13.0
+	github.com/litesql/go-sqlite3-ha v0.13.2
 	github.com/pocketbase/dbx v1.12.0
 	github.com/pocketbase/pocketbase v0.40.4
 	github.com/spf13/cobra v1.10.2

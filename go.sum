@@ -107,12 +107,12 @@ github.com/kylelemons/godebug v1.1.0 h1:RPNrshWIDI6G2gRW9EHilWtl7Z6Sb1BR0xunSBf0
 github.com/kylelemons/godebug v1.1.0/go.mod h1:9/0rRGxNHcop5bhtWyNeEfOS8JIWk580+fNqagV/RAw=
 github.com/litesql/go-ha v0.13.0 h1:pwP+9whceIJC45kV123ALO54+VsQmxy8jcFUV1bBGmw=
 github.com/litesql/go-ha v0.13.0/go.mod h1:eRVYRR2FBtY/ONA58voe9TX3XHxv37aQkN+DYMagOgw=
-github.com/litesql/go-sqlite-ha v0.13.1 h1:FsKaPgt+isee9pAoS/zqxaknn8zh65lwd4TZcReKvqY=
-github.com/litesql/go-sqlite-ha v0.13.1/go.mod h1:yDqZtVbRGJ6TltajsQsHwMMzzOJtz4ZZrURJyR4cGgs=
+github.com/litesql/go-sqlite-ha v0.13.2 h1:wMGtQDsgS9HO2gOTMdHxHdwYKka7YEUFEIm4jo+Bx1g=
+github.com/litesql/go-sqlite-ha v0.13.2/go.mod h1:yDqZtVbRGJ6TltajsQsHwMMzzOJtz4ZZrURJyR4cGgs=
 github.com/litesql/go-sqlite3 v1.14.53 h1:Hwx1EibV/WM+7QY1QnWRUYJlbKlPZrgKf2lBdhGbVZM=
 github.com/litesql/go-sqlite3 v1.14.53/go.mod h1:RHjo2/v6uTMBbyFV9TN07BFzkBoTQNbw1VJzBrJVb88=
-github.com/litesql/go-sqlite3-ha v0.13.0 h1:guz5N2cRrEwep5TCssKaey8DMncFI1x4BcucVM4XLBM=
-github.com/litesql/go-sqlite3-ha v0.13.0/go.mod h1:lKjliZUKsrFu6d+B4kZPIiUGH4Xk9F2pw+4fY45oDdo=
+github.com/litesql/go-sqlite3-ha v0.13.2 h1:IQuqbl60uwV9nv3d2+JF9XPuqyPvDJf8dxxIOwr4Waw=
+github.com/litesql/go-sqlite3-ha v0.13.2/go.mod h1:lKjliZUKsrFu6d+B4kZPIiUGH4Xk9F2pw+4fY45oDdo=
 github.com/lucasb-eyer/go-colorful v1.3.0 h1:2/yBRLdWBZKrf7gB40FoiKfAWYQ0lqNcbuQwVHXptag=
 github.com/lucasb-eyer/go-colorful v1.3.0/go.mod h1:R4dSotOR9KMtayYi1e77YzuveK+i7ruzyGqttikkLy0=
 github.com/mattn/go-colorable v0.1.15 h1:+u9SLTRGnXv73cEsnsmoZBom+dMU88B2M0aDcWy0/jY=
