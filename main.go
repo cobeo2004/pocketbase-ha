@@ -34,6 +34,7 @@ func init() {
 		ha.WithName(os.Getenv("PB_NAME")),
 		ha.WithReplicationURL(os.Getenv("PB_REPLICATION_URL")),
 		ha.WithWaitFor(bootstrap),
+		ha.WithForcePublishBeforeStart(true),
 		ha.WithChangeSetInterceptor(interceptor),
 	}
 
