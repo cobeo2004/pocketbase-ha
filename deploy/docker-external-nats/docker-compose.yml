@@ -24,7 +24,7 @@ services:
       - "9090:9090"
     environment:
       - PB_NAME=node1
-      - PB_REPLICAS=1
+      - PB_REPLICAS=3
       - PB_REPLICATION_URL=nats://nats:4222
       - PB_ASYNC_PUBLISHER=true
       - PB_ASYNC_PUBLISHER_DIR=/app/pb_data/outbox
@@ -53,7 +53,7 @@ services:
       - "9091:9090"
     environment:
       - PB_NAME=node2
-      - PB_REPLICAS=1
+      - PB_REPLICAS=3
       - PB_REPLICATION_URL=nats://nats:4222
       - PB_ASYNC_PUBLISHER=true
       - PB_ASYNC_PUBLISHER_DIR=/app/pb_data/outbox
@@ -80,7 +80,7 @@ services:
       - "9092:9090"
     environment:
       - PB_NAME=node3
-      - PB_REPLICAS=1
+      - PB_REPLICAS=3
       - PB_REPLICATION_URL=nats://nats:4222
       - PB_ASYNC_PUBLISHER=true
       - PB_ASYNC_PUBLISHER_DIR=/app/pb_data/outbox

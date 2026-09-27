@@ -28,6 +28,7 @@ func Options(cfg config.Config, interceptor ha.ChangeSetInterceptor, bootstrap c
 		ha.WithName(cfg.Name),
 		ha.WithReplicationURL(cfg.ReplicationURL),
 		ha.WithWaitFor(bootstrap),
+		ha.WithForcePublishBeforeStart(true),
 		ha.WithChangeSetInterceptor(interceptor),
 	}
 
